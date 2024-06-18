@@ -8,7 +8,7 @@ Wallpaper Engine has a built-in screensaver setting that integrates with Windows
 2. Add a shortcut to the script on your desktop or start menu.
 3. Open the shortcut properties.
 4. Assign a shortcut key (for example, I use `Ctrl + Alt + L`).
-5. Optionally, change the shortcut icon.
+5. Optionally, change the shortcut icon And run minimized.
 6. Test the shortcut.
 
 ## Troubleshooting
