@@ -13,7 +13,7 @@ Wallpaper Engine has a built-in screensaver setting that integrates with Windows
 
 ## Troubleshooting
 
-If it doesn't work, analyze the task list to see which screen saver (.scr) is running. Check the difference when testing (C:\Windows\System32\*.scr) with the screen saver running by default (Change Screen Saver) and just change the file name in the script to match the name of the *.scr file.
+If it doesn't work, analyze the task list to see which screen saver (.scr) is running. Check the difference when testing (C:\Windows\System32\\*.scr) with the screen saver running by default (Change Screen Saver) and just change the file name in the script to match the name of the *.scr file.
 
 ## Tested
 Windows 11 Home  
